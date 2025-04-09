@@ -2,10 +2,9 @@
 ### Grupo 2:
 #### Descrição
 
-|<img src="https://github.com/user-attachments/assets/346e703f-fa86-419d-8b17-6b2b5a47dc13" alt="DO IT" /> | 
-| ------------------------- | ------------------------------------------ |
-|<h4><a href="https://github.com/DevThiagoGalvaoAmorim/Do-it">Repositório GitHub</a></h4>|
-|<h4><a href="https://drive.google.com/file/d/1ZiVNbwgLwupi_PB1tff392ZYylcbPiVu/view?usp=drive_link">Vídeo</a></h4>|
+### Grupo 3:
+|<img src="https://github.com/user-attachments/assets/346e703f-fa86-419d-8b17-6b2b5a47dc13" alt="DO IT" /> | <h2><a href="https://github.com/DevThiagoGalvaoAmorim/Do-it">Do it</a></h2><br> Este é um aplicativo de gerenciamento de tarefas que ajuda você a organizar, acompanhar e concluir suas tarefas com eficiência! |
+| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
 #### Equipe
