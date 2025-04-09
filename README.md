@@ -10,9 +10,10 @@
 #### Equipe
 | Nome | Github |
 | ------------------------- | ------------------------------------------ |
-| Thiago Galvão Amorim | [@lalisalix](https://github.com/lalisalix) |
-| Douglas Alves da Cruz | [@fariaiago](https://github.com/fariaiago) |
-| Ruam Marcos Maciel dos Santos | [@DanielVinicius00](https://github.com/DanielVinicius00) |
-| João Sestari Galvão | [@Ana4Julia](https://github.com/Ana4Julia) |
-| Raphael Sales de Souza | [@JaumMota](https://github.com/JaumMota) |
-| [Link para repositório do projeto](https://github.com/EngSoftKanban/GreenBoard) |
+| Thiago Galvão Amorim | [@DevThiagoGalvaoAmorim](https://github.com/DevThiagoGalvaoAmorim) |
+| Douglas Alves da Cruz | [@douglasalvesc](https://github.com/douglasalvesc) |
+| Ruam Marcos Maciel dos Santos | [@RuamMarcos](https://github.com/RuamMarcos) |
+| João Sestari Galvão | [@joaosgalvao](https://github.com/joaosgalvao) |
+| Raphael Sales de Souza | [@raphaelsales](https://github.com/raphaelsales) |
+| Guilherme da Silva Carvalho | [@guilherme1737](https://github.com/guilherme1737) |
+| [Link para repositório do projeto](https://github.com/DevThiagoGalvaoAmorim/Do-it.git) |
