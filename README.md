@@ -2,7 +2,9 @@
 ### Grupo 2:
 #### Descrição
 
-| <img src="https://github.com/user-attachments/assets/ecedcbca-1f84-43ea-9bab-7d851478dd18" width="1500"/> | <h2><a href="https://github.com/jessilver/Engenharia-de-Software-Gamyx">GreenBoard</a></h2><br> GreenBoard é o projeto de um de quadro Kanban simples e mínimo para de fato aumentar sua produtividade. <br> <h4><a href="https://engsoftkanban.github.io">Landing Page</a></h4> <h4><a href="https://github.com/EngSoftKanban/GreenBoard/blob/main/V%C3%ADdeo%20de%20Demonstra%C3%A7%C3%A3o.mp4">Vídeo</a></h4> <h4><a href="https://github.com/EngSoftKanban/GreenBoard/releases/latest">Versão atual</a></h4> <h4><a href="https://github.com/EngSoftKanban/GreenBoard/blob/main/GREENBOARD.pdf">Apresentação final</a></h4> |
+| <img src="https://github.com/user-attachments/assets/346e703f-fa86-419d-8b17-6b2b5a47dc13" alt="DO IT" /> | 
+<h4><a href="https://github.com/DevThiagoGalvaoAmorim/Do-it">Repositório GitHub</a></h4>
+<h4><a href="https://drive.google.com/file/d/1ZiVNbwgLwupi_PB1tff392ZYylcbPiVu/view?usp=drive_link">Vídeo</a></h4> 
 | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 #### Equipe
